@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Visibility Image</string>
+    <string name="android">Android</string>
+    <string name="on_off">On/Off</string>
+    <string name="invisible">Invisible</string>
+    <string name="visible">Visible</string>
+    <string name="gone">Gone</string>
+</resources>
